@@ -1,0 +1,23 @@
+SPD:
+Con 8 bytes se puede representar 256 numeros.(binario)
+
+Signo/magnitud:
+El primer numero me indica si es positivo o negativo.(0 positivo, 1 negativo)	
+
+LOS POSITIVOS NO SE TRANSFORMAN A NADA.
+
+cOMPLEMENTO 1 (NOT)
+COMPLEMENTO 2 (NOT +1)
+
+Complemento 2:
+Sumarle 1 a complemento Uno.
+
+Si el negativo es mayor el resultado va a estar en complemento a 2.
+
+TODO ESTA EN COMPLEMENTO A 2!!
+
+BOOLEANO!!
+
+Numeros mayores a 128 no se pueden representar (tanto positivos y negativos) porque me excederia de tabla.
+
+Sucede cuando los dos numeros estan en el rango y sean del mismo signo.
